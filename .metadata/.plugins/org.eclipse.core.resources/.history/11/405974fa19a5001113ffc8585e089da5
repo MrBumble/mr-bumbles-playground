@@ -39,6 +39,6 @@ public class RSA {
 	public static void main(String[] args){
 		RSA rsa = new RSA();
 		System.out.println(rsa.encrypt(7, 23, 143));
-		System.out.println(Math.pow(7, 23));
+		
 	}
 }

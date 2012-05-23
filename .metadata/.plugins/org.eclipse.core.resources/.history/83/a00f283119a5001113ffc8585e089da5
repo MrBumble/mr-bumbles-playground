@@ -14,14 +14,14 @@ public class RSA {
 
 	}
 
-	public double encrypt(double number, double exp, double N) {
-		double code;
+	public String encrypt(int text, int exp, int N) {
+		int code = "";
 		//String clean = text;
 		//int length = clean.length();
 		
 		//for(int i = 0; i < length; i++){
-			code = Math.pow(number,exp) % N;
-	
+			code = (Math.pow(text,exp) % N);
+			
 		//}
 
 		return code;
@@ -39,6 +39,6 @@ public class RSA {
 	public static void main(String[] args){
 		RSA rsa = new RSA();
 		System.out.println(rsa.encrypt(7, 23, 143));
-		System.out.println(Math.pow(7, 23));
+		
 	}
 }

@@ -1,0 +1,32 @@
+package matt.hesse;
+
+/**
+ * 
+ * @author Matt
+ * 
+ * 
+ *         This class encrpyts and decpryts Messages based on the RSA algorithm
+ */
+
+public class RSA {
+
+	public RSA() {
+
+	}
+
+	public String encrypt(String text, int exp, int N) {
+		String code = "";
+		String clean = text;
+		int lenght = clean.length();
+
+		return code;
+
+	}
+
+	public String decrypt() {
+		String clean = "";
+
+		return clean;
+
+	}
+}
