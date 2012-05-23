@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;RSA.java&apos; to &apos;RSA/src/matt.hesse&apos;&#x0D;&#x0A;- Original project: &apos;RSA&apos;&#x0D;&#x0A;- Destination element: &apos;RSA/src/matt.hesse&apos;&#x0D;&#x0A;- Original element: &apos;RSA.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;matt.hesse" element1="/src&lt;{RSA.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1337805333630" units="1" version="1.0"/>
+</session>
