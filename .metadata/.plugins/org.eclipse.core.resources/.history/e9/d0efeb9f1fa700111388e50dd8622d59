@@ -1,0 +1,13 @@
+
+public class test {
+	
+	public static void main(String[] args){
+		double lebenX;
+		double lebenY;
+		
+		double ausdauer= 863 + 1292;
+		double leben = 0;
+		double lvl = 0;
+		
+	}
+}

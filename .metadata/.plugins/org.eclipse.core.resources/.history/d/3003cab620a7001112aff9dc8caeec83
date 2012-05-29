@@ -1,0 +1,18 @@
+
+public class test {
+	
+	public static void main(String[] args){
+		double lebenX;
+		double lebenY;
+		
+		double ausdauer= (863 + 1292)*1.25;
+		double leben = (689162 * 0.85);
+		double lvl = 138;
+		
+		lebenX = leben * 1.25;
+		lebenY = ausdauer*2*(lvl+1);
+		System.out.println(lebenX);
+		System.out.println(lebenY);
+		
+	}
+}
