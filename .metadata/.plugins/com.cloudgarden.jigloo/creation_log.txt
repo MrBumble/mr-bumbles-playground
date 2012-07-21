@@ -1,0 +1,59 @@
+Creating elements for GuiTest.java
+
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+
+    >>>  about to create class java.awt.Dimension
+    <<< created class java.awt.Dimension
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.BorderLayout, constructor=public java.awt.BorderLayout()
+<<< created class java.awt.BorderLayout
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.BorderLayout, constructor=public java.awt.BorderLayout()
+<<< created class java.awt.BorderLayout
+
+>>>  about to create class java.awt.BorderLayout, constructor=public java.awt.BorderLayout()
+<<< created class java.awt.BorderLayout
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class java.awt.Dimension, constructor=public java.awt.Dimension(int,int)
+<<< created class java.awt.Dimension
+
+>>>  about to create class javax.swing.JFrame, constructor=public javax.swing.JFrame() throws java.awt.HeadlessException
+<<< created class javax.swing.JFrame
+
+>>>  about to create class javax.swing.JRootPane$1
+<<< error creating class javax.swing.JRootPane$1, java.lang.NoSuchMethodException: javax.swing.JRootPane$1.<init>()
+
+>>>  about to create class javax.swing.JTextArea, constructor=public javax.swing.JTextArea()
+<<< created class javax.swing.JTextArea
+
+>>>  about to create class javax.swing.JTextArea, constructor=public javax.swing.JTextArea()
+<<< created class javax.swing.JTextArea
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class javax.swing.JPanel, constructor=public javax.swing.JPanel()
+<<< created class javax.swing.JPanel
+
+>>>  about to create class javax.swing.JButton, constructor=public javax.swing.JButton()
+<<< created class javax.swing.JButton
+
+>>>  about to create class javax.swing.JButton, constructor=public javax.swing.JButton()
+<<< created class javax.swing.JButton
+
+>>>  about to create class javax.swing.JButton, constructor=public javax.swing.JButton()
+<<< created class javax.swing.JButton

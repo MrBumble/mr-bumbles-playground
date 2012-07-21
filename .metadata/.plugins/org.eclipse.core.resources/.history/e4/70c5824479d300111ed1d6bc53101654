@@ -1,0 +1,16 @@
+package network;
+
+public class Client {
+
+	public Client(){
+		
+		
+	}
+	
+	public void connect(String adress,int port,String username){
+		
+		
+	}
+	
+	
+}

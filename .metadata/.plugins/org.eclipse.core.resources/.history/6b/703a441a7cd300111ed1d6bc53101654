@@ -1,0 +1,20 @@
+package gui;
+
+public class Gui {
+	
+	private Client client;
+	
+	public Gui(){
+		
+		
+	}
+	
+	
+	
+	public static void main(String[] args){
+		Gui gui = new Gui();
+		
+		
+	}
+
+}

@@ -1,0 +1,36 @@
+package gui;
+
+import javax.swing.JFrame;
+import javax.swing.SwingUtilities;
+
+import network.Client;
+
+public class Gui extends JFrame {
+	
+	private Client client;
+	
+	public Gui(){
+		setTitle("CookieNetworkMessenger");
+		setSize(300, 200);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		setLocationRelativeTo(null);
+		setResizable(false);
+		
+		
+	}
+	
+	
+	
+	public static void main(String[] args){
+
+		 SwingUtilities.invokeLater(new Runnable() {
+	            public void run() {
+	                Gui gui = new Gui();
+	                gui.setVisible(true);
+	            }
+	        });
+		
+		
+	}
+
+}

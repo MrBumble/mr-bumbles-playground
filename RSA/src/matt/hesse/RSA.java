@@ -5,7 +5,7 @@ package matt.hesse;
  * @author Matt
  * 
  * 
- *         This class encrpyts and decpryts Messages based on the RSA algorithm
+ *         This class encrpyts and decpryts messages based on the RSA algorithm
  */
 
 public class RSA {

@@ -1,0 +1,18 @@
+package gui;
+
+public class Gui {
+	
+	public Gui(){
+		
+		
+	}
+	
+	
+	
+	public static void main(String[] args){
+		Gui gui = new Gui();
+		
+		
+	}
+
+}

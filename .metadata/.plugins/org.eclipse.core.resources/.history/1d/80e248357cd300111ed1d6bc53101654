@@ -1,0 +1,22 @@
+package gui;
+
+import network.Client;
+
+public class Gui {
+	
+	private Client client;
+	
+	public Gui(){
+		client = new Client();
+		
+	}
+	
+	
+	
+	public static void main(String[] args){
+		Gui gui = new Gui();
+		
+		
+	}
+
+}
